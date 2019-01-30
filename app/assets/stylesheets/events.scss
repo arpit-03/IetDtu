@@ -1,0 +1,57 @@
+// Place all the styles related to the events controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.evnth{
+	color: white;
+    text-align: center;
+    font-family: cursive;
+}
+.imgdiv{
+	width:50%;
+}
+.imgposter{
+	   width:100%;
+    border-radius: 8%;}
+.abtevent{
+	width: 40vw;
+	color:white;
+}
+.evntp{
+	display: flex;
+	justify-content: space-around;
+}
+.reg{
+	
+    background-color: yellow;
+    height: 6vh;
+    width: 11vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.reg1{
+	display: flex;
+    justify-content: center;
+}
+.imgpostermobile{
+	width:90%
+}
+.imgdivm{
+	display:flex;
+	justify-content:center;
+}
+.regm{
+	display:flex;
+
+    justify-content: center;
+}
+ .psm{
+    color: black;
+    text-decoration: none;
+}
+.psm:hover
+{
+     color:#00A0C6; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
