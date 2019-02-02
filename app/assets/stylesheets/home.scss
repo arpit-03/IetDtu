@@ -8,8 +8,20 @@ background-attachment: fixed;
 background-position: center;
   background-repeat: no-repeat;
 background-size:100%;
+justify-content: space-around;
+}
+ .j{
+
  
-	}
+ }
+ .slogan{
+     display: flex;
+    width: 20vw;
+    align-items: center;
+    padding-top: 15vh;
+    justify-content:center;
+ }
+	
 	#front2{
 	height:100vh;
 	background-image:url("/assets/bg6.jpg");

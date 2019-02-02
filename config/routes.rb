@@ -8,5 +8,9 @@ get 'index', to:'home#index'
   get 'events', to:'home#events'
   get 'tnt',to:'events#tnt'
   get 'techxbit',to: 'events#techxbit'
+  get 'botonline',to:'events#botonline'
+  get 'travaganza',to:"events#travaganza"
+  get 'maze', to:"events#maze"
+  get 'oblivion',to:"events#oblivion"
   get 'cs',to:'events#comingsoon'
 end
