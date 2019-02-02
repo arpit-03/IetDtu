@@ -12,5 +12,6 @@ get 'index', to:'home#index'
   get 'travaganza',to:"events#travaganza"
   get 'maze', to:"events#maze"
   get 'oblivion',to:"events#oblivion"
+  get 'cerebral',to:"events#cerebral"
   get 'cs',to:'events#comingsoon'
 end
