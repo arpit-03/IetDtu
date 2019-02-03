@@ -26,7 +26,7 @@
  
 }*/
 #wrapper{
-	    height: 16vh; 
+	    height: 15vh; 
 }
 #logo{
 	height: 10vh;
@@ -51,7 +51,10 @@ box-shadow:inset 0px 8px 40px white;
 
 
 .navbar-fixed-top {
-    min-height: 80px;
+    
+}
+#nbar{
+/*	height: 15vh;*/
 }
 
 .navbar-nav > li > a {
@@ -69,4 +72,10 @@ box-shadow:inset 0px 8px 40px white;
     padding-bottom: 10px;
 
 }
+}
+.navbar {min-height:15vh !important}
+
+#bootstrap-overrides{
+	width: 8vw;
+    height: 8vw;
 }
