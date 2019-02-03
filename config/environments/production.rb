@@ -5,7 +5,7 @@ Rails.application.configure do
   config.assets.compile = false
   config.cache_classes = true
   config.require_master_key = true
-config.secret_key_base = ENV["8a2ff74119cb2b8f14a85dd6e213fa24d8540fc34dcaa7ef8a35c246ae452bfa8702767d19086461ac911e1435481c22663fbd65c97f21f6a91b3fce7687ce63"] 
+
   # Eager load code on boot. This eager loads most of Rails and
   # your application in memory, allowing both threaded web servers
   # and those relying on copy on write to perform better.
