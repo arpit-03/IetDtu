@@ -13,5 +13,7 @@ get 'index', to:'home#index'
   get 'maze', to:"events#maze"
   get 'oblivion',to:"events#oblivion"
   get 'cerebral',to:"events#cerebral"
+  get 'trickycircuits', to:"events#trickycircuits"
+  get 'virtuosol', to:"events#virtuosol"
   get 'cs',to:'events#comingsoon'
 end

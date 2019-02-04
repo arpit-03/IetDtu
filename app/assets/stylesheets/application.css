@@ -54,7 +54,7 @@ box-shadow:inset 0px 8px 40px white;
     
 }
 #nbar{
-/*	height: 15vh;*/
+	height: 15vh;
 }
 
 .navbar-nav > li > a {
@@ -73,9 +73,21 @@ box-shadow:inset 0px 8px 40px white;
 
 }
 }
-.navbar {min-height:15vh !important}
+/*.navbar {min-height:15vh !important}*/
 
 #bootstrap-overrides{
 	width: 8vw;
     height: 8vw;
 }
+/*#l{
+	opacity:1;
+	position:fixed;
+	z-index:99999;
+	height:1600px;
+	width:100%;
+	top:0px;
+	background-image: url("/assets/wolf1.gif");
+
+	
+}
+*/

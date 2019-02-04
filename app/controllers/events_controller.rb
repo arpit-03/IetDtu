@@ -1,11 +1,9 @@
 class EventsController < ApplicationController
 	def botonline
 	end
-	def bridge
-	end
 	def cerebral
 	end
-	def iotvation
+	def trickycircuits
 	end
 	def maze
 	end
@@ -17,7 +15,7 @@ class EventsController < ApplicationController
 	end
 	def travaganza
 	end
-	def wrocket
+	def virtuosol
 	end
 	def comingsoon
 	end

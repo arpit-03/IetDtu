@@ -14,3 +14,7 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+// window.addEventListener("load",function(){
+// 	var l= document.getElementById("l");
+// 	l.remove();
+// })
