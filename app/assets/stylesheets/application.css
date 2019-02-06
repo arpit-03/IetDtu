@@ -25,8 +25,9 @@
  
  
 }*/
+.navbar {min-height:13vh !important}
 #wrapper{
-	    height: 16vh; 
+	    height: 13vh; 
 }
 #logo{
 	height: 10vh;
@@ -73,7 +74,6 @@ box-shadow:inset 0px 8px 40px white;
 
 }
 }
-.navbar {min-height:16vh !important}
 
 #bootstrap-overrides{
 	width: 8vw;

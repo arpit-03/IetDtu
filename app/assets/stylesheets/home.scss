@@ -181,3 +181,21 @@ display:flex;
      cursor:pointer;  
 }
 
+#simg{
+	display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.simg1{
+	width: 40vw;
+}
+.simgm{
+	display: flex;
+	    align-items: center;
+	justify-content: center;
+}
+.simg1m{
+	width:80vw;
+}
+
